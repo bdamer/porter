@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Porter</string>
+<string name="button_export">Export</string>
+<string name="button_import">Import</string>
+<string name="label_info">Please enter a location for the backup of your text messages:</string>
+<string name="default_file">sms.xml</string>
+<string name="label_import">You can stop the import by using the &quot;back&quot; button.</string>
+<string name="label_export">You can stop the export by using the &quot;back&quot; button.</string>
+<string name="dialog_progress">Please wait</string>
+<string name="dialog_error">Error</string>
+<string name="button_ok">OK</string>
+<string name="label_error">An error occured: %s</string>
+<string name="dialog_success">Success</string>
+<string name="label_success">Operation complete.</string>
+<string name="label_mms">Export MMS messages</string>
+</resources>
